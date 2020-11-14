@@ -11,22 +11,22 @@ Renvoyez un lien git (gitlab ou github au choix) **pendant le premier TP** où v
 ###Un hello world parallele
 **Q1: Je constate que:**
 
-Bonjour, je suis la tache n° 1 sur 16 taches
-Bonjour, je suis la tache n° 7 sur 16 taches
-Bonjour, je suis la tache n° 8 sur 16 taches
-Bonjour, je suis la tache n° 10 sur 16 taches
-Bonjour, je suis la tache n° 11 sur 16 taches
-Bonjour, je suis la tache n° 12 sur 16 taches
-Bonjour, je suis la tache n° 14 sur 16 taches
-Bonjour, je suis la tache n° 15 sur 16 taches
-Bonjour, je suis la tache n° 0 sur 16 taches
-Bonjour, je suis la tache n° 2 sur 16 taches
-Bonjour, je suis la tache n° 3 sur 16 taches
-Bonjour, je suis la tache n° 4 sur 16 taches
-Bonjour, je suis la tache n° 6 sur 16 taches
-Bonjour, je suis la tache n° 9 sur 16 taches
-Bonjour, je suis la tache n° 13 sur 16 taches
-Bonjour, je suis la tache n° 5 sur 16 taches
+Bonjour, je suis la tache n° 1 sur 16 taches 
+Bonjour, je suis la tache n° 7 sur 16 taches 
+Bonjour, je suis la tache n° 8 sur 16 taches 
+Bonjour, je suis la tache n° 10 sur 16 taches 
+Bonjour, je suis la tache n° 11 sur 16 taches 
+Bonjour, je suis la tache n° 12 sur 16 taches 
+Bonjour, je suis la tache n° 14 sur 16 taches 
+Bonjour, je suis la tache n° 15 sur 16 taches 
+Bonjour, je suis la tache n° 0 sur 16 taches 
+Bonjour, je suis la tache n° 2 sur 16 taches 
+Bonjour, je suis la tache n° 3 sur 16 taches 
+Bonjour, je suis la tache n° 4 sur 16 taches 
+Bonjour, je suis la tache n° 6 sur 16 taches 
+Bonjour, je suis la tache n° 9 sur 16 taches 
+Bonjour, je suis la tache n° 13 sur 16 taches 
+Bonjour, je suis la tache n° 5 sur 16 taches 
 
 **Q2:Le nom du fichier txt est nommé d'après le numéro de thread et correspond au thread correspondant. Le contenu est le résultat de l'exécution du thread. De cette façon, nous savons ce que chaque thread exécute.**
 
